@@ -1,0 +1,31 @@
+.elso{
+    height: 100px;
+    background-color: purple;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.kiskekek{
+    height: 50px;
+    width: 160px;
+    background-color: lightblue;
+    margin: 10px;
+}
+
+.masodik{
+    height: 845px;
+    width: 100%;
+    display: flex;
+}
+
+.nagysarga{
+    background-color: yellow;
+    flex-grow: 2;
+}
+
+.kiszold{
+    background-color: darkgreen;
+    flex-grow: 1;
+}
